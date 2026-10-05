@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "685555705617",
+    "project_id": "hf-customer-app-dev",
+    "storage_bucket": "hf-customer-app-dev.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685555705617:android:905f3f832283e0beb2ceb0",
+        "android_client_info": {
+          "package_name": "com.example.hf_customer_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATv5rdSiqm-ABaESB2ahS6cdB59a6M6Ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685555705617:android:9cfc3f2c66674ff7b2ceb0",
+        "android_client_info": {
+          "package_name": "food.order.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATv5rdSiqm-ABaESB2ahS6cdB59a6M6Ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
