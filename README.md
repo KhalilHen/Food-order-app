@@ -51,6 +51,8 @@ My goals were to:
 - [ ] Scheduled orders
 - [ ] refactor authentication to passwordless authenthication
 - [ ] Further UI polish
+- [ ] Refactor database structure
+- [ ] add menu items customizations(Toppings, sizes, etc)
 
 
 ## Demo
